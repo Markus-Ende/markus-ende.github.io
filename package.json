@@ -1,0 +1,26 @@
+{
+  "name": "markus-ende.github.io",
+  "version": "1.0.0",
+  "description": "Web page of Markus Ende",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Markus-Ende/markus-ende.github.io.git"
+  },
+  "keywords": [
+    "Markus",
+    "Ende"
+  ],
+  "author": "Markus Ende (me@markusende.de)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Markus-Ende/markus-ende.github.io/issues"
+  },
+  "homepage": "https://github.com/Markus-Ende/markus-ende.github.io#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
